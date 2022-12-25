@@ -1,0 +1,8 @@
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\Synchronization\bin\Debug\Synchronization.exe.config
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\Synchronization\bin\Debug\Synchronization.exe
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\Synchronization\bin\Debug\Synchronization.pdb
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\Synchronization\obj\Debug\Synchronization.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\Synchronization\obj\Debug\Synchronization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\Synchronization\obj\Debug\Synchronization.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\Synchronization\obj\Debug\Synchronization.exe
+C:\Users\Hafiz\source\repos\Visual Studio 2022 New Files\Synchronization\obj\Debug\Synchronization.pdb
